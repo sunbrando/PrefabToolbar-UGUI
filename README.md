@@ -9,7 +9,9 @@
 
 还可给里面的预设增加UITemplate组件，那么Prefab Toolbar里的预设修改后，只要按一下被修改预设的UITemplate的apply按钮，就能对用到此预设的界面进行批量更新。
 
-更详细的介绍请到：http://brandocode.com/?p=325，或者加我QQ：516768166
+更详细的介绍请到：http://brandocode.com/?p=325
+
+或者加我QQ：516768166，欢迎讨论
 
 NGUI版：https://github.com/sunbrando/PrefabToolbar-NGUI
 
